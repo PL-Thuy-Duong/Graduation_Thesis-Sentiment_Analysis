@@ -1,0 +1,14 @@
+# Large embeddings / datasets
+SourceCode/glove*.txt
+SourceCode/*.vec
+SourceCode/*.bin
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.vscode/
+
+*.pth
